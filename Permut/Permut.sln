@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permut", "Permut\Permut.csproj", "{9A8F1AF8-D401-46FA-8B63-1461342537BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permut.Tests", "Permut.Tests\Permut.Tests.csproj", "{4748E1D4-80FD-489B-B042-92C89E13D94E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A8F1AF8-D401-46FA-8B63-1461342537BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A8F1AF8-D401-46FA-8B63-1461342537BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A8F1AF8-D401-46FA-8B63-1461342537BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A8F1AF8-D401-46FA-8B63-1461342537BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4748E1D4-80FD-489B-B042-92C89E13D94E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4748E1D4-80FD-489B-B042-92C89E13D94E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4748E1D4-80FD-489B-B042-92C89E13D94E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4748E1D4-80FD-489B-B042-92C89E13D94E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
